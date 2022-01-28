@@ -54,7 +54,7 @@
 # NiFi - NiFi-registry 연동
 1. Bucket 생성
  1.1 NiFi-Registry 웹 접속 후 우측 상단의 스패너 아이콘 선택
-  그림 1
+ ![Kafka Consume compressed message (SmartCity_NiFi_Template-02)](./2-3.png)
  1.2. [New Bucket] 선택
   그림 2 
  1.3. Bucket Name 입력
