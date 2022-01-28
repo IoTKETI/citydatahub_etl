@@ -23,9 +23,12 @@
  2. 서비스를 시작한다.
   bin/nifi-registry.sh start
 
-
- ## 종료 및 재시작
+ ### 종료 및 재시작
  1. 종료
+  <pre><code>
   bin/nifi-registry.sh stop
+  </code></pre>
  2. 재시작
-  bin/nifi-registry.sh restart
+   <pre><code>
+   bin/nifi-registry.sh restart
+   </code></pre>
