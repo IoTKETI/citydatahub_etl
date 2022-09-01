@@ -1,7 +1,0 @@
-{
-    "config.nifiRootFlowId": "14e36c5e-016d-1000-df24-d156faa9832d",
-    "config.nifiPort": 65432,
-    "config.runningOS": "CentOS",
-    "config.nifiURL": "http://133.186.162.192:65432",
-    "config.nifiRegistryURL": "http://133.186.162.192:65434"
-}
