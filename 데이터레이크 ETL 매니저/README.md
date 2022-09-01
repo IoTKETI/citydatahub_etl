@@ -359,7 +359,7 @@
         * 실행 명령어
             >(sudo) ./deploy.sh
             * deploy.sh로 실행해도 동작하지만, 오픈스택의 경우 나이파이 실행 시 sudo 권한이 필요하기 때문에 deploy.sh도 sudo 권한으로 실행함
-### ETL 모니터링 도구 Back-End
+### ETL 모니터링 도구
 <p align="center">
     <img  src="./6.png" width=80% height=80%>
 </p>
